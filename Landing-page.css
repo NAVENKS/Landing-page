@@ -20,6 +20,9 @@ body{
     margin-top: 5px;
     color: aliceblue;
     font-weight: bold;
+    border-color: transparent;
+    background-color: transparent;
+    cursor: pointer;
     
 }
 .head1
@@ -40,6 +43,9 @@ body{
     margin-top: 15px;
     font-weight: bold;
     z-index: 1;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
 }
 .island
 {
